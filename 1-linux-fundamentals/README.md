@@ -1,6 +1,6 @@
 # 1. Linux Fundamentals
 
-**Status:** ✓ Completed  
+**Status:** Completed  ✓
 **Duration:** 2-3 weeks  
 **Key Skills:** File systems, permissions, users, terminal proficiency
 
